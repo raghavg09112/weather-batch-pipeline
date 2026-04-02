@@ -158,7 +158,7 @@ weather-batch-pipeline/
 
 ```bash
 # Clone the repo
-git clone https://github.com/raghavg09112/weather-batch-pipeline
+git clone https://github.com/yourusername/weather-batch-pipeline
 cd weather-batch-pipeline
 
 # Install Python dependencies
